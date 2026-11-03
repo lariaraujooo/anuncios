@@ -1,0 +1,821 @@
+[
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "campanha-0211-dinamicas/idosos-imagem-1-feed.png",
+  "alt": "campanha-0211-dinamicas/idosos-imagem-1.png",
+  "titulo": "Idosos — azul com logo (R$29)",
+  "agente": "anuncios 02/11",
+  "envio": "campanha-0211-dinamicas/idosos-imagem-1-feed.png"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "campanha-0211-dinamicas/idosos-imagem-2-feed.png",
+  "alt": "campanha-0211-dinamicas/idosos-imagem-2.png",
+  "titulo": "Idosos — verde (R$29)",
+  "agente": "anuncios 02/11",
+  "envio": "campanha-0211-dinamicas/idosos-imagem-2-feed.png"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "campanha-0211-dinamicas/idosos-video-novo.mp4",
+  "alt": "campanha-0211-dinamicas/idosos-video-novo-feed.mp4",
+  "titulo": "Idosos — vídeo campeão atualizado",
+  "agente": "anuncios 02/11",
+  "envio": "banco-criativos/previews/campanha-0211-dinamicas__idosos-video-novo.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "campanha-0211-dinamicas/idosos-video-v2.mp4",
+  "alt": "campanha-0211-dinamicas/idosos-video-v2-feed.mp4",
+  "titulo": "Idosos — vídeo v2 (dor forte)",
+  "agente": "anuncios 02/11",
+  "envio": "campanha-0211-dinamicas/idosos-video-v2.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "campanha-0211-dinamicas/grupo-imagem-1-feed.png",
+  "alt": "campanha-0211-dinamicas/grupo-imagem-1.png",
+  "titulo": "200 Dinâmicas — card verde de preço",
+  "agente": "anuncios 02/11",
+  "envio": "campanha-0211-dinamicas/grupo-imagem-1-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "campanha-0211-dinamicas/grupo-imagem-2-feed.png",
+  "alt": "campanha-0211-dinamicas/grupo-imagem-2.png",
+  "titulo": "200 Dinâmicas — oferta rosa",
+  "agente": "anuncios 02/11",
+  "envio": "campanha-0211-dinamicas/grupo-imagem-2-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "campanha-0211-dinamicas/grupo-video-novo.mp4",
+  "alt": "campanha-0211-dinamicas/grupo-video-novo-feed.mp4",
+  "titulo": "200 Dinâmicas — vídeo atualizado",
+  "agente": "anuncios 02/11",
+  "envio": "banco-criativos/previews/campanha-0211-dinamicas__grupo-video-novo.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "campanha-0211-dinamicas/grupo-video-v2.mp4",
+  "alt": "campanha-0211-dinamicas/grupo-video-v2-feed.mp4",
+  "titulo": "200 Dinâmicas — v2 cortes na batida",
+  "agente": "anuncios 02/11",
+  "envio": "banco-criativos/previews/campanha-0211-dinamicas__grupo-video-v2.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "campanha-0211-dinamicas/grupo-video-v3.mp4",
+  "alt": "campanha-0211-dinamicas/grupo-video-v3-feed.mp4",
+  "titulo": "200 Dinâmicas — v3 frases na batida",
+  "agente": "anuncios 02/11",
+  "envio": "banco-criativos/previews/campanha-0211-dinamicas__grupo-video-v3.mp4"
+ },
+ {
+  "produto": "bebes",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/BB-1.mp4",
+  "alt": null,
+  "titulo": "Bebês — vídeo BB-1 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__BB-1.mp4"
+ },
+ {
+  "produto": "bebes",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/BB-2.mp4",
+  "alt": null,
+  "titulo": "Bebês — vídeo BB-2 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/BB-2.mp4"
+ },
+ {
+  "produto": "bebes",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/BB-3.mp4",
+  "alt": null,
+  "titulo": "Bebês — vídeo BB-3 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/BB-3.mp4"
+ },
+ {
+  "produto": "bebes",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/BB-4.mp4",
+  "alt": null,
+  "titulo": "Bebês — vídeo BB-4 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__BB-4.mp4"
+ },
+ {
+  "produto": "bebes",
+  "tipo": "imagem",
+  "arquivo": "campanha-2810-v2/estaticos/BB-E1.png",
+  "alt": null,
+  "titulo": "Bebês — estático BB-E1 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/estaticos/BB-E1.png"
+ },
+ {
+  "produto": "bebes",
+  "tipo": "imagem",
+  "arquivo": "campanha-2810-v2/estaticos/BB-E2.png",
+  "alt": null,
+  "titulo": "Bebês — estático BB-E2 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/estaticos/BB-E2.png"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/CS-1.mp4",
+  "alt": null,
+  "titulo": "Casais — vídeo CS-1 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/CS-1.mp4"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/CS-2.mp4",
+  "alt": null,
+  "titulo": "Casais — vídeo CS-2 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/CS-2.mp4"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/CS-3.mp4",
+  "alt": null,
+  "titulo": "Casais — vídeo CS-3 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/CS-3.mp4"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/CS-4.mp4",
+  "alt": null,
+  "titulo": "Casais — vídeo CS-4 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__CS-4.mp4"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "campanha-2810-v2/estaticos/CS-E1.png",
+  "alt": null,
+  "titulo": "Casais — estático CS-E1 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/estaticos/CS-E1.png"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "campanha-2810-v2/estaticos/CS-E2.png",
+  "alt": null,
+  "titulo": "Casais — estático CS-E2 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/estaticos/CS-E2.png"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/ID-1.mp4",
+  "alt": null,
+  "titulo": "Idosos — vídeo ID-1 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__ID-1.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/ID-2.mp4",
+  "alt": null,
+  "titulo": "Idosos — vídeo ID-2 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__ID-2.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/ID-3.mp4",
+  "alt": null,
+  "titulo": "Idosos — vídeo ID-3 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/ID-3.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/ID-4.mp4",
+  "alt": null,
+  "titulo": "Idosos — vídeo ID-4 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__ID-4.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "campanha-2810-v2/estaticos/ID-E1.png",
+  "alt": null,
+  "titulo": "Idosos — estático ID-E1 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/estaticos/ID-E1.png"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "campanha-2810-v2/estaticos/ID-E2.png",
+  "alt": null,
+  "titulo": "Idosos — estático ID-E2 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/estaticos/ID-E2.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/QG-1.mp4",
+  "alt": null,
+  "titulo": "Quebra-gelo — vídeo QG-1 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__QG-1.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/QG-2.mp4",
+  "alt": null,
+  "titulo": "Quebra-gelo — vídeo QG-2 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/QG-2.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/QG-3.mp4",
+  "alt": null,
+  "titulo": "Quebra-gelo — vídeo QG-3 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__QG-3.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "campanha-2810-v2/QG-4.mp4",
+  "alt": null,
+  "titulo": "Quebra-gelo — vídeo QG-4 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "banco-criativos/previews/campanha-2810-v2__QG-4.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "campanha-2810-v2/estaticos/QG-E1.png",
+  "alt": null,
+  "titulo": "Quebra-gelo — estático QG-E1 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/estaticos/QG-E1.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "campanha-2810-v2/estaticos/QG-E2.png",
+  "alt": null,
+  "titulo": "Quebra-gelo — estático QG-E2 (campanha 28/10)",
+  "agente": "campanha 28/10",
+  "envio": "campanha-2810-v2/estaticos/QG-E2.png"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/beneficios-4x5.jpg",
+  "alt": "casais/imagens/beneficios-9x16.jpg",
+  "titulo": "Casais — imagem \"beneficios\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/beneficios-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/creme-4x5.jpg",
+  "alt": "casais/imagens/creme-9x16.jpg",
+  "titulo": "Casais — imagem \"creme\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/creme-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/escuro-4x5.jpg",
+  "alt": "casais/imagens/escuro-9x16.jpg",
+  "titulo": "Casais — imagem \"escuro\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/escuro-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/jogos-4x5.jpg",
+  "alt": "casais/imagens/jogos-9x16.jpg",
+  "titulo": "Casais — imagem \"jogos\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/jogos-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/kit-4x5.jpg",
+  "alt": "casais/imagens/kit-9x16.jpg",
+  "titulo": "Casais — imagem \"kit\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/kit-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/lider-4x5.jpg",
+  "alt": "casais/imagens/lider-9x16.jpg",
+  "titulo": "Casais — imagem \"lider\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/lider-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/oferta-4x5.jpg",
+  "alt": "casais/imagens/oferta-9x16.jpg",
+  "titulo": "Casais — imagem \"oferta\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/oferta-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/presente-4x5.jpg",
+  "alt": "casais/imagens/presente-9x16.jpg",
+  "titulo": "Casais — imagem \"presente\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/presente-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/rotina-4x5.jpg",
+  "alt": "casais/imagens/rotina-9x16.jpg",
+  "titulo": "Casais — imagem \"rotina\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/rotina-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "imagem",
+  "arquivo": "casais/imagens/tempo-4x5.jpg",
+  "alt": "casais/imagens/tempo-9x16.jpg",
+  "titulo": "Casais — imagem \"tempo\"",
+  "agente": "pasta casais",
+  "envio": "casais/imagens/tempo-4x5.jpg"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "casais/videos/jogos-9x16.mp4",
+  "alt": "casais/videos/jogos-4x5.mp4",
+  "titulo": "Casais — vídeo \"jogos\"",
+  "agente": "pasta casais",
+  "envio": "casais/videos/jogos-9x16.mp4"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "casais/videos/lider-9x16.mp4",
+  "alt": "casais/videos/lider-4x5.mp4",
+  "titulo": "Casais — vídeo \"lider\"",
+  "agente": "pasta casais",
+  "envio": "casais/videos/lider-9x16.mp4"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "casais/videos/presente-9x16.mp4",
+  "alt": "casais/videos/presente-4x5.mp4",
+  "titulo": "Casais — vídeo \"presente\"",
+  "agente": "pasta casais",
+  "envio": "casais/videos/presente-9x16.mp4"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "casais/videos/rotina-9x16.mp4",
+  "alt": "casais/videos/rotina-4x5.mp4",
+  "titulo": "Casais — vídeo \"rotina\"",
+  "agente": "pasta casais",
+  "envio": "casais/videos/rotina-9x16.mp4"
+ },
+ {
+  "produto": "casais",
+  "tipo": "video",
+  "arquivo": "casais/videos/tempo-9x16.mp4",
+  "alt": "casais/videos/tempo-4x5.mp4",
+  "titulo": "Casais — vídeo \"tempo\"",
+  "agente": "pasta casais",
+  "envio": "casais/videos/tempo-9x16.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-1-cuidador-4x5.jpg",
+  "alt": "idosos/imagens/imagem-1-cuidador-9x16.jpg",
+  "titulo": "Idosos — imagem 1 cuidador",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-1-cuidador-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-10-oferta-4x5.jpg",
+  "alt": "idosos/imagens/imagem-10-oferta-9x16.jpg",
+  "titulo": "Idosos — imagem 10 oferta",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-10-oferta-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-2-filho-que-cuida-4x5.jpg",
+  "alt": "idosos/imagens/imagem-2-filho-que-cuida-9x16.jpg",
+  "titulo": "Idosos — imagem 2 filho que cuida",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-2-filho-que-cuida-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-3-fisioterapeuta-4x5.jpg",
+  "alt": "idosos/imagens/imagem-3-fisioterapeuta-9x16.jpg",
+  "titulo": "Idosos — imagem 3 fisioterapeuta",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-3-fisioterapeuta-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-4-ilpi-e-centro-dia-4x5.jpg",
+  "alt": "idosos/imagens/imagem-4-ilpi-e-centro-dia-9x16.jpg",
+  "titulo": "Idosos — imagem 4 ilpi e centro dia",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-4-ilpi-e-centro-dia-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-5-grupo-da-melhor-idade-4x5.jpg",
+  "alt": "idosos/imagens/imagem-5-grupo-da-melhor-idade-9x16.jpg",
+  "titulo": "Idosos — imagem 5 grupo da melhor idade",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-5-grupo-da-melhor-idade-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-6-fundo-escuro-4x5.jpg",
+  "alt": "idosos/imagens/imagem-6-fundo-escuro-9x16.jpg",
+  "titulo": "Idosos — imagem 6 fundo escuro",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-6-fundo-escuro-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-7-creme-destaque-4x5.jpg",
+  "alt": "idosos/imagens/imagem-7-creme-destaque-9x16.jpg",
+  "titulo": "Idosos — imagem 7 creme destaque",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-7-creme-destaque-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-8-kit-checklist-4x5.jpg",
+  "alt": "idosos/imagens/imagem-8-kit-checklist-9x16.jpg",
+  "titulo": "Idosos — imagem 8 kit checklist",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-8-kit-checklist-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "idosos/imagens/imagem-9-beneficios-4x5.jpg",
+  "alt": "idosos/imagens/imagem-9-beneficios-9x16.jpg",
+  "titulo": "Idosos — imagem 9 beneficios",
+  "agente": "pasta idosos",
+  "envio": "idosos/imagens/imagem-9-beneficios-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "idosos/videos/cuidador-9x16.mp4",
+  "alt": "idosos/videos/cuidador-4x5.mp4",
+  "titulo": "Idosos — vídeo \"cuidador\"",
+  "agente": "pasta idosos",
+  "envio": "idosos/videos/cuidador-9x16.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "idosos/videos/filho-9x16.mp4",
+  "alt": "idosos/videos/filho-4x5.mp4",
+  "titulo": "Idosos — vídeo \"filho\"",
+  "agente": "pasta idosos",
+  "envio": "idosos/videos/filho-9x16.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "idosos/videos/fisio-9x16.mp4",
+  "alt": "idosos/videos/fisio-4x5.mp4",
+  "titulo": "Idosos — vídeo \"fisio\"",
+  "agente": "pasta idosos",
+  "envio": "idosos/videos/fisio-9x16.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "idosos/videos/grupo-9x16.mp4",
+  "alt": "idosos/videos/grupo-4x5.mp4",
+  "titulo": "Idosos — vídeo \"grupo\"",
+  "agente": "pasta idosos",
+  "envio": "idosos/videos/grupo-9x16.mp4"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "video",
+  "arquivo": "idosos/videos/ilpi-9x16.mp4",
+  "alt": "idosos/videos/ilpi-4x5.mp4",
+  "titulo": "Idosos — vídeo \"ilpi\"",
+  "agente": "pasta idosos",
+  "envio": "idosos/videos/ilpi-9x16.mp4"
+ },
+ {
+  "produto": "lideranca",
+  "tipo": "imagem",
+  "arquivo": "lideranca/quiz-nova-lider-01.png",
+  "alt": null,
+  "titulo": "Liderança — quiz nova líder 1",
+  "agente": "pasta liderança",
+  "envio": "lideranca/quiz-nova-lider-01.png"
+ },
+ {
+  "produto": "lideranca",
+  "tipo": "imagem",
+  "arquivo": "lideranca/quiz-nova-lider-02.png",
+  "alt": null,
+  "titulo": "Liderança — quiz nova líder 2",
+  "agente": "pasta liderança",
+  "envio": "lideranca/quiz-nova-lider-02.png"
+ },
+ {
+  "produto": "lideranca",
+  "tipo": "imagem",
+  "arquivo": "lideranca/quiz-nova-lider-03.png",
+  "alt": null,
+  "titulo": "Liderança — quiz nova líder 3",
+  "agente": "pasta liderança",
+  "envio": "lideranca/quiz-nova-lider-03.png"
+ },
+ {
+  "produto": "lideranca",
+  "tipo": "imagem",
+  "arquivo": "lideranca/quiz-nova-lider-04.png",
+  "alt": null,
+  "titulo": "Liderança — quiz nova líder 4",
+  "agente": "pasta liderança",
+  "envio": "lideranca/quiz-nova-lider-04.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "quebra-gelo/01-dor-feed.png",
+  "alt": "quebra-gelo/01-dor-story.png",
+  "titulo": "Quebra-gelo — dor",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/01-dor-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "quebra-gelo/02-oferta-feed.png",
+  "alt": "quebra-gelo/02-oferta-story.png",
+  "titulo": "Quebra-gelo — oferta",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/02-oferta-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "quebra-gelo/03-numero-feed.png",
+  "alt": "quebra-gelo/03-numero-story.png",
+  "titulo": "Quebra-gelo — numero",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/03-numero-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "quebra-gelo/04-plataforma-feed.png",
+  "alt": "quebra-gelo/04-plataforma-story.png",
+  "titulo": "Quebra-gelo — plataforma",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/04-plataforma-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "quebra-gelo/05-antes-depois-feed.png",
+  "alt": "quebra-gelo/05-antes-depois-story.png",
+  "titulo": "Quebra-gelo — antes depois",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/05-antes-depois-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "quebra-gelo/06-pacote-feed.png",
+  "alt": "quebra-gelo/06-pacote-story.png",
+  "titulo": "Quebra-gelo — pacote",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/06-pacote-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "quebra-gelo/07-nativo-feed.png",
+  "alt": "quebra-gelo/07-nativo-story.png",
+  "titulo": "Quebra-gelo — nativo",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/07-nativo-feed.png"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/celulas-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/celulas-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"celulas\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__celulas-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/confraternizacao-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/confraternizacao-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"confraternizacao\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__confraternizacao-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/dds-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/dds-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"dds\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__dds-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/encontro-de-casais-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/encontro-de-casais-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"encontro de casais\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/videos/encontro-de-casais-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/festa-fim-de-ano-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/festa-fim-de-ano-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"festa fim de ano\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__festa-fim-de-ano-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/integracao-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/integracao-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"integracao\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__integracao-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/jornada-pedagogica-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/jornada-pedagogica-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"jornada pedagogica\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/videos/jornada-pedagogica-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/jovens-retiros-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/jovens-retiros-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"jovens retiros\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__jovens-retiros-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/reuniao-de-equipe-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/reuniao-de-equipe-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"reuniao de equipe\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__reuniao-de-equipe-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/sipat-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/sipat-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"sipat\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__sipat-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/treinamentos-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/treinamentos-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"treinamentos\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "banco-criativos/previews/quebra-gelo__videos__treinamentos-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "video",
+  "arquivo": "quebra-gelo/videos/volta-as-aulas-quebra-gelo-9x16.mp4",
+  "alt": "quebra-gelo/videos/volta-as-aulas-quebra-gelo-4x5.mp4",
+  "titulo": "Quebra-gelo — vídeo \"volta as aulas\"",
+  "agente": "pasta quebra-gelo",
+  "envio": "quebra-gelo/videos/volta-as-aulas-quebra-gelo-9x16.mp4"
+ },
+ {
+  "produto": "escala",
+  "tipo": "imagem",
+  "arquivo": "banco-criativos/meta/escala-imagem-4x5.jpg",
+  "alt": null,
+  "titulo": "Escala — imagem 16/12",
+  "agente": "só no Meta Ads",
+  "envio": "banco-criativos/meta/escala-imagem-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "banco-criativos/meta/idosos-E1-v3-r29-4x5.jpg",
+  "alt": null,
+  "titulo": "Idosos — E1 v3 R$29",
+  "agente": "só no Meta Ads",
+  "envio": "banco-criativos/meta/idosos-E1-v3-r29-4x5.jpg"
+ },
+ {
+  "produto": "idosos",
+  "tipo": "imagem",
+  "arquivo": "banco-criativos/meta/idosos-E2-v3-r29-4x5.jpg",
+  "alt": null,
+  "titulo": "Idosos — E2 v3 R$29",
+  "agente": "só no Meta Ads",
+  "envio": "banco-criativos/meta/idosos-E2-v3-r29-4x5.jpg"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "banco-criativos/meta/quebra-gelo-E1-v3-4x5.jpg",
+  "alt": null,
+  "titulo": "Quebra-gelo — E1 v3",
+  "agente": "só no Meta Ads",
+  "envio": "banco-criativos/meta/quebra-gelo-E1-v3-4x5.jpg"
+ },
+ {
+  "produto": "quebra-gelo",
+  "tipo": "imagem",
+  "arquivo": "banco-criativos/meta/quebra-gelo-oferta-2990-4x5.jpg",
+  "alt": null,
+  "titulo": "Quebra-gelo — oferta 29,90",
+  "agente": "só no Meta Ads",
+  "envio": "banco-criativos/meta/quebra-gelo-oferta-2990-4x5.jpg"
+ }
+]
